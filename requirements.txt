@@ -1,0 +1,5 @@
+# Desktop shell (workspace root). The learning engine lives in be_scientific/.
+kivy>=2.3.0
+kivymd>=2.0.0
+pymunk>=6.6,<8
+requests>=2.31

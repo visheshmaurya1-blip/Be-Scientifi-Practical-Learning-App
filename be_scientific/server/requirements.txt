@@ -1,0 +1,9 @@
+# Backend API
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+pydantic>=2.6
+psycopg[binary]>=3.1        # PostgreSQL driver (only needed when DATABASE_URL is postgresql+psycopg://...)
+# Optional LLM tutor (see server/tutor.py):
+# langchain-anthropic         # LLM_PROVIDER=anthropic
+# langchain-openai            # LLM_PROVIDER=openai

@@ -1,0 +1,2 @@
+Use navigation.access.can_open(screen, role) to decide whether a student
+or teacher may open a route from navigation.routes.

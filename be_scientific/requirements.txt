@@ -1,0 +1,5 @@
+# Desktop development / testing of the Kivy app (Python 3.10-3.13)
+kivy>=2.3.0
+kivymd==1.2.0
+pymunk>=6.6,<8
+requests>=2.31

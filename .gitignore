@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.buildozer/
+bin/
+build/
+dist/
+
+*.db
+*.sqlite
+*.sqlite3
+
+.env
+.env.*
+!.env.example
+
+# Public image assets are omitted until redistribution rights are confirmed.
+Graphics/
+assets/*.png

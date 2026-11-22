@@ -1,0 +1,96 @@
+[
+  {
+    "concept_id": "class5_math_fractions",
+    "class_level": 5,
+    "subject": "Mathematics",
+    "chapter_title": "Fractions",
+    "concept_title": "Equivalent Fractions",
+    "curriculum_source": "NCERT mapping placeholder; verify current official textbook and edition.",
+    "learning_outcomes": [
+      "Recognize fractions that represent the same quantity.",
+      "Compare simple fractions using visual models."
+    ],
+    "hint_en": "Imagine a shape divided into equal parts. Compare shaded parts with the total equal parts.",
+    "hint_hi": "एक आकृति को बराबर भागों में बाँटकर रंगे हुए भागों की तुलना कुल बराबर भागों से करें।",
+    "explanation_en": "Equivalent fractions have the same value. For example, 1/2 and 2/4 represent the same amount.",
+    "explanation_hi": "समतुल्य भिन्नों का मान समान होता है। उदाहरण के लिए, 1/2 और 2/4 समान मात्रा दर्शाते हैं।",
+    "questions": [
+      {
+        "question_id": "frac_q1",
+        "question": "Which fraction is equivalent to 1/2?",
+        "options": [
+          "1/3",
+          "2/4",
+          "3/5"
+        ],
+        "correct_answer": "2/4"
+      },
+      {
+        "question_id": "frac_q2",
+        "question": "Which fraction is equivalent to 2/3?",
+        "options": [
+          "4/6",
+          "2/5",
+          "3/5"
+        ],
+        "correct_answer": "4/6"
+      }
+    ]
+  },
+  {
+    "concept_id": "class5_math_division",
+    "class_level": 5,
+    "subject": "Mathematics",
+    "chapter_title": "Division",
+    "concept_title": "Equal Sharing",
+    "curriculum_source": "Illustrative mapping placeholder; verify current official NCERT textbook and edition.",
+    "learning_outcomes": [
+      "Explain division as equal sharing.",
+      "Solve simple equal-sharing problems."
+    ],
+    "hint_en": "Draw the objects and distribute one object at a time to each group.",
+    "hint_hi": "वस्तुओं का चित्र बनाइए और हर समूह को एक-एक वस्तु बाँटिए।",
+    "explanation_en": "Division can share a total into equal groups. Sharing 12 objects among 3 groups gives 4 per group.",
+    "explanation_hi": "भाग का उपयोग वस्तुओं को बराबर समूहों में बाँटने के लिए होता है। 12 वस्तुओं को 3 समूहों में बाँटने पर हर समूह में 4 होंगी।",
+    "questions": [
+      {
+        "question_id": "div_q1",
+        "question": "Share 12 objects equally among 3 groups. How many are in each group?",
+        "options": [
+          "3",
+          "4",
+          "6"
+        ],
+        "correct_answer": "4"
+      }
+    ]
+  },
+  {
+    "concept_id": "class5_evs_plants",
+    "class_level": 5,
+    "subject": "Environmental Studies",
+    "chapter_title": "Plants Around Us",
+    "concept_title": "What Plants Need",
+    "curriculum_source": "Illustrative topic only; confirm exact class, chapter, and edition.",
+    "learning_outcomes": [
+      "Identify common conditions that help plants grow.",
+      "Describe the role of water and sunlight."
+    ],
+    "hint_en": "Compare a plant that receives water and light with one that does not.",
+    "hint_hi": "पानी और प्रकाश पाने वाले पौधे की तुलना बिना पानी या प्रकाश वाले पौधे से करें।",
+    "explanation_en": "Most green plants need water, light, air, and suitable growing conditions.",
+    "explanation_hi": "अधिकांश हरे पौधों को पानी, प्रकाश, हवा और उपयुक्त परिस्थितियों की आवश्यकता होती है।",
+    "questions": [
+      {
+        "question_id": "plant_q1",
+        "question": "Which is generally needed by green plants to make food?",
+        "options": [
+          "Sunlight",
+          "Plastic",
+          "Glass"
+        ],
+        "correct_answer": "Sunlight"
+      }
+    ]
+  }
+]\n
